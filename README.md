@@ -1,0 +1,1 @@
+# Run-performance-and-semantic-quality-benchmarks-on-OpenAI-and-Cohere-embedding-models
